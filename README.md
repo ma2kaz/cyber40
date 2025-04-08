@@ -8,13 +8,9 @@ I started this project to prepare the environment for this "Cyber40" and to gath
 ---
 
 ## 背景・経緯
-<<<<<<< HEAD
 私は、AliExpressで自作キーボードを買いました。
 そのキーボードは、"REMAP"に登録されていませんでした。
 しかし、ハードウェア自体はQMKに対応しているようで、"Cyber40"という名前で"REMAP"に認識されました。
 認識はされても設定を変える事が出来ません。
 この"Cyber40"の環境を整える・情報収集のために、このプロジェクトを立ち上げました。
-=======
-
->>>>>>> 903b5706b9cbc64969d2561fff082e84fb1a2cb7
 
